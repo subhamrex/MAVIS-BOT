@@ -1,2 +1,2 @@
 # MAVIS-BOT
-I created this bot using python with GUI. 
+I created this chat bot using python with GUI. 
